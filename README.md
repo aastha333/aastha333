@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aastha333
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Node js
+- 🌱 I’m working on Node js
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me aasthabhardwaj333@gmail.com
 
